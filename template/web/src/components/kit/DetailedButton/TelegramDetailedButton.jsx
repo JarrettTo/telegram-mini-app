@@ -1,5 +1,4 @@
-import React, {useState} from 'react';
-import TelegramInput from "../Input/TelegramInput";
+import React from 'react';
 import TelegramButton from "../Button/TelegramButton";
 import './TelegramDetailedButton.css';
 import TelegramText from "../Text/TelegramText";
